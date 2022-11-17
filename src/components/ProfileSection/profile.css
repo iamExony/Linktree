@@ -19,8 +19,8 @@
     .desktop-nav {
         display: flex;
         position: relative;
-        top: 0;
-        left: 500px;
+        top: 10px;
+        right: -500px;
         }
     .navbar{
         display: none;
