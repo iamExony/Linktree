@@ -1,0 +1,28 @@
+.footer-body{
+   background: white;
+}
+.footer-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #EAECF0;
+}
+.spaced{
+    padding: 20px 0 60px 20px;
+}
+.other-contents{
+    padding: 60px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.spaced-item {
+    padding-bottom: 20px;
+}
+@media only screen and (min-width: 768px) {
+    .other-contents {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+}

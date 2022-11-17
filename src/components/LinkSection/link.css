@@ -1,0 +1,15 @@
+.link-btn{
+    width: 100%;
+    background: #EAECF0;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 1px solid #EAECF0;
+;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.link-btn:hover{
+  background: #D0D5DD;
+}
