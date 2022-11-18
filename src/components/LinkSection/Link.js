@@ -9,6 +9,7 @@ function Link() {
       <a href='https://books.zuri.team/python-for-beginners?ref_id=Exony'><button id='book__python' className='link-btn'>Python </button></a>
       <a href='https://background.zuri.team'><button id='pitch' className='link-btn'>Background Check for Coders</button></a>
       <a href='https://books.zuri.team/design-rules '><button id='twitter' className='link-btn'>Design Books</button></a>
+      <a href='https://books.zuri.team/design-rules '><button id='twitter' className='link-btn'>Contact Me</button></a>
     </div>
   );
 }
